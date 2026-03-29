@@ -1,2 +1,2 @@
-# Hardware-Projects
+# Industrial Datalogger Hardware Design
 Industrial Datalogger Hardware Design
